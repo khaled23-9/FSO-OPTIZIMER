@@ -1,0 +1,5 @@
+name: FSO-Optimizer
+version: 1.0.0
+main: com.fso.FSOPlugin
+api-version: 1.21
+authors: [khaled_jalal]
